@@ -1,0 +1,8 @@
+led_7seg.c:10:8:display7SEG	16	static
+led_7seg.c:120:8:display7SEG1	16	static
+led_7seg.c:231:9:update7SEG	16	static
+led_7seg.c:250:9:updateLedBuffer	16	static
+led_7seg.c:259:9:update7SEG_t	16	static
+led_7seg.c:278:9:updateLedBuffer_t	16	static
+led_7seg.c:284:9:update7SEG2	16	static
+led_7seg.c:322:9:updateLedBuffer_2	16	static
